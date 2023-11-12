@@ -1,0 +1,18 @@
+[
+  {
+    "id": "audio4",
+    "file": "media/Sea.wav"
+  },
+  {
+    "id": "audio3",
+    "file": "media/Noise.wav"
+  },
+  {
+    "id": "audio2",
+    "file": "media/ShockMedia.wav"
+  },
+  {
+    "id": "audio1",
+    "file": "media/Sine.wav"
+  }
+]
