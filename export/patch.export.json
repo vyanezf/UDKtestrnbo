@@ -36,25 +36,25 @@
       },
       {
         "id": "audio4",
-        "file": "Sea.wav",
+        "file": "Sea.mp3",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "audio3",
-        "file": "Noise.wav",
+        "file": "Noise.mp3",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "audio2",
-        "file": "ShockMedia.wav",
+        "file": "ShockMedia.mp3",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "audio1",
-        "file": "Sine.wav",
+        "file": "Sine.mp3",
         "type": "Float32Buffer",
         "tag": "buffer~"
       }
